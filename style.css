@@ -1,0 +1,22 @@
+html, body {
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: 400;
+	background: linear-gradient(180deg, #d8f6fb, #d1f6fb);
+	color: #2a383b;
+}
+
+
+
+input {
+	padding: 10px;
+	font-size: 20px;
+	border: none;
+}
+
+button {
+	padding: 10px;
+	font-size: 20px;
+	background: white;
+	border: none;
+	color: #2a383b;
+}
